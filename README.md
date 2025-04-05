@@ -1,5 +1,5 @@
 
-# AOS Assignment-3 [Peer-to-Peer Distributed File Sharing System]
+# Peer-to-Peer Distributed File Sharing System
 
 This project implements a Peer-to-Peer (P2P) file sharing system where clients can share, upload, and download files with each other within groups. The system includes a **client** and a **tracker** that manage file sharing, user groups, and the integrity of shared files.
 
